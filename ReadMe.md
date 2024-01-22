@@ -1,5 +1,8 @@
 # Technical TODOs
 - [ ] Learn backend
+- [ ] Complete System Design
+- [ ] Learn JavaScript - Advanced 
+- [ ] Learn MongoDB
 - [ ] Build a Project
 - [ ] Create a Portfolio Web
 - [ ] Learn SQL
