@@ -1,5 +1,5 @@
 # Technical TODOs
-- [ ] Learn backend
+- [x] Learn backend
 - [ ] Complete System Design
 - [ ] Learn JavaScript - Advanced 
 - [ ] Learn MongoDB
